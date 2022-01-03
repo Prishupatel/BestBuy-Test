@@ -8,9 +8,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-/**
- * Created by Jay
- */
+
 public class AssertionExampleDemo {
 
     static ValidatableResponse response;
